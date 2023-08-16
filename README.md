@@ -3,7 +3,10 @@
 
 A commute-sharing app tailored for [Freudenberg Group](https://www.freudenberg.com/) employees, elevating engagement and bridging the commuter gap, all while advancing corporate sustainability goals.
 
-![DEMO in GIF](documentation/demo.gif)
+![DEMO in GIF](demo.gif)
+
+[Screen Record Here](demo.mp4)
+
 
 **Idea Board**: [See Figmaboard here](https://www.figma.com/file/bUhONKhBTksjcXG2MlYuhd/Commute-Together-App?type=whiteboard&node-id=0%3A1&t=fKx6lgOvYX6FDcIm-1)
 
